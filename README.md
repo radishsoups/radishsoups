@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="center"><samp> i'm a computer science student looking to combine the left and right brain in technology.  </samp></p>
+<p align="center"><samp> i'm a software engineer looking to combine the left and right brain in technology.  </samp></p>
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/sunminkim6872/"><img width="30" src="https://img.icons8.com/?size=100&id=85044&format=png&color=000000"/></a>
